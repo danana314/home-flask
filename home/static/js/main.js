@@ -6,10 +6,6 @@ function centerLogo(){
   });
 }
 
-$('#logoContainer').imagesLoaded(function(instance) {
-//        centerLogo();
-        console.log('images loaded');
-});
 //$(window).resize(centerLogo);
 //$(document).ready(centerLogo);
 $("#logoContainer #logo").on("load", function() {
