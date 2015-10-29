@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="leftbolt_light.svg">
+   sodipodi:docname="leftbolt_dark.svg">
   <defs
      id="defs4">
     <clipPath
@@ -107,7 +107,7 @@
      transform="translate(-916.23964,84.158908)">
     <g
        id="g6515"
-       style="fill:none;stroke:#ffffff;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-opacity:1"
        transform="translate(8,0)">
       <path
          transform="matrix(0.87849018,0,0,0.87849018,579.9425,-332.51725)"
@@ -123,7 +123,7 @@
          sodipodi:cx="623"
          sodipodi:sides="6"
          id="path6431"
-         style="fill:none;stroke:#ffffff;stroke-width:34.14952087000000300;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:none;stroke:#000000;stroke-width:34.14952087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          sodipodi:type="star" />
       <rect
          y="-84.15892"
@@ -131,7 +131,7 @@
          height="250"
          width="250.31581"
          id="rect6451"
-         style="fill:none;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <path
          clip-path="url(#clipPath6487-2)"
          transform="matrix(1.2320421,0,0,1.2320421,341.81298,-482.7768)"
@@ -147,7 +147,7 @@
          sodipodi:cx="623"
          sodipodi:sides="6"
          id="path6431-9-5"
-         style="fill:none;stroke:#ffffff;stroke-width:24.34981728000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:none;stroke:#000000;stroke-width:24.34981728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          sodipodi:type="star" />
     </g>
   </g>
